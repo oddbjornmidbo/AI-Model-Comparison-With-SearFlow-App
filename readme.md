@@ -34,18 +34,19 @@ The final score is the sum of these three 0–10 scores, for a maximum of 30.
 | **Sonnet 5.5** | ~$0.80 | **5m 07s** | 8.2 | 8.8 | 4.6 | **21.6** |
 | **Sol** | ~2% weekly, ~25–30% 5h** | 35m 35s | 7.0 | 7.7 | 5.9 | **20.6** |
 
+\* Opus showed about $6 total usage, but roughly $2 came from an unrelated Claude session that was accidentally triggered during the run.  
+\** Sol's five-hour usage window reset during the run, so the short-window percentage is approximate. Its weekly usage was about 2%.  
+\*** ChatGPT models were run under a private ChatGPT Plus subscription, while Claude models were run under an Enterprise license.
+
 ## Detailed design results
 
 | Implementation | Visual /10 | Responsive /10 | Universal Design /10 | Design average /10 |
 | -------------- | ---------: | -------------: | -------------------: | -----------------: |
-| Sonnet         | 6.4        | 4.4            | 3.0                  | 4.6                |
-| Opus           | 7.2        | 5.0            | 3.2                  | 5.1                |
-| Sol            | 6.4        | 5.0            | 6.3                  | 5.9                |
 | Luna           | 8.4        | 8.3            | 5.7                  | 7.5                |
+| Sol            | 6.4        | 5.0            | 6.3                  | 5.9                |
+| Opus           | 7.2        | 5.0            | 3.2                  | 5.1                |
+| Sonnet         | 6.4        | 4.4            | 3.0                  | 4.6                |
 
-\* Opus showed about $6 total usage, but roughly $2 came from an unrelated Claude session that was accidentally triggered during the run.  
-\** Sol's five-hour usage window reset during the run, so the short-window percentage is approximate. Its weekly usage was about 2%.  
-\*** ChatGPT models were run under a private ChatGPT Plus subscription, while Claude models were run under an Enterprise license.
 
 ## What stood out
 
