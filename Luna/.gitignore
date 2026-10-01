@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+backend/SeatFlow.Api/seatflow.db
+backend/SeatFlow.Api/seatflow.db-shm
+backend/SeatFlow.Api/seatflow.db-wal
+**/seatflow.db*
