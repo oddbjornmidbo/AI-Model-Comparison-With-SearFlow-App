@@ -37,7 +37,7 @@ The final score is the sum of these three 0–10 scores, for a maximum of 30.
 | **Sol** | ~2% weekly, ~25–30% 5h** | 35m 35s | 7.0 | 7.7 | 5.9 | **20.6** |
 | **RUD-Opus†** | $3.29 | ~11m | **9.0** | **9.4** | **8.3** | **26.7** |
 
-† RUD-Opus was run with an improved prompt explicitly calling for Responsive Design, Universal Design, and a simple but professional-looking UI. It was also allowed to use Sonnet and Haiku as sub-agents. Its generation cost and time were not recorded. Because the prompt and permitted assistance differed, this row is not a controlled same-prompt comparison with the four baseline runs. It was also evaluated in a separate run as this test was done after the others. See the [RUD-Opus evaluation](./RUD-Opus-evaluation.md).
+† RUD-Opus was run with an improved prompt explicitly calling for Responsive Design, Universal Design, and a simple but professional-looking UI. It was also allowed to use Sonnet and Haiku as sub-agents. Because the prompt and permitted assistance differed, this row is not a controlled same-prompt comparison with the four baseline runs. See the [RUD-Opus evaluation](./RUD-Opus-evaluation.md).
 
 \* Opus showed about $6 total usage, but roughly $2 came from an unrelated Claude session that was accidentally triggered during the run.  
 \** Sol's five-hour usage window reset during the run, so the short-window percentage is approximate. Its weekly usage was about 2%.  
